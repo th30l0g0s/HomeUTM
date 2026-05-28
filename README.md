@@ -85,7 +85,7 @@ Internet
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/TON_UTILISATEUR/home-utm.git
+git clone https://github.com/th30l0g0s/HomeUTM.git
 cd home-utm
 
 # [Étapes d'installation à compléter]
